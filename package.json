@@ -1,0 +1,42 @@
+{
+  "name": "cfn-packager",
+  "version": "0.0.1",
+  "description": "Prepare CloudFormation stacks and resource definitions for deployment",
+  "homepage": "https://github.com/Merlin-Taylor/node-cfn-packager/blob/master/README.md",
+  "bugs": {
+    "url": "https://github.com/Merlin-Taylor/node-cfn-packager/issues",
+    "email": "code.merlin.taylor@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Merlin-Taylor/node-cfn-packager.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Merlin Taylor",
+    "email": "code.merlin.taylor@gmail.com"
+  },
+  "bin": {
+    "cfn-packager": "bin/cfn-packager.js"
+  },
+  "license": "Apache-2.0",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "commander": "^2.9.0",
+    "globby": "^6.1.0"
+  },
+  "engines": {
+    "node": ">=6.7.0",
+    "npm": ">=3.10.3"
+  },
+  "os": [
+    "darwin",
+    "linux",
+    "win32"
+  ]
+}

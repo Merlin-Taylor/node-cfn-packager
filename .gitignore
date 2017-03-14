@@ -1,0 +1,6 @@
+**/npm-debug.log
+**/*.tar.gz
+**/*.tgz
+**/*.zip
+**/node_modules/
+dist/
