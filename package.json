@@ -1,6 +1,6 @@
 {
   "name": "cfn-packager",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Prepare CloudFormation stacks and resource definitions for deployment",
   "homepage": "https://github.com/Merlin-Taylor/node-cfn-packager/blob/master/README.md",
   "bugs": {
@@ -23,8 +23,7 @@
     "cfn-packager": "bin/cfn-packager.js"
   },
   "license": "Apache-2.0",
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "dependencies": {
     "bluebird": "^3.5.0",
     "commander": "^2.9.0",
