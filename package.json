@@ -27,7 +27,8 @@
   "dependencies": {
     "bluebird": "^3.5.0",
     "commander": "^2.9.0",
-    "globby": "^6.1.0"
+    "globby": "^6.1.0",
+    "js-yaml": "^3.8.2"
   },
   "engines": {
     "node": ">=6.7.0",
