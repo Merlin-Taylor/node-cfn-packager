@@ -1,6 +1,6 @@
 {
   "name": "cfn-packager",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Prepare CloudFormation stacks and resource definitions for deployment",
   "homepage": "https://github.com/Merlin-Taylor/node-cfn-packager/blob/master/README.md",
   "bugs": {
